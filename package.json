@@ -1,7 +1,9 @@
 {
   "name": "sellthetrend-mcp",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "author": "Fahad Iqbal (@mfahadiqbalofcl)",
+  "repository": "github:mfahadiqbalofcl/sellthetrend-mcp",
   "type": "module",
   "description": "Unofficial MCP server for Sell The Trend — drives your own logged-in account via a headless browser (no public API exists).",
   "bin": { "sellthetrend-mcp": "server.mjs" },

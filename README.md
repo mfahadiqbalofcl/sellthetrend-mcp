@@ -4,7 +4,7 @@ An **MCP (Model Context Protocol) server** that turns your Sell The Trend accoun
 
 Sell The Trend has **no public API**, so this server drives your **own logged-in account** through a real browser (Playwright). It gives an AI assistant (Claude Code, etc.) generic browser primitives *plus* purpose-built research + reporting tools.
 
-> ⚠️ **Personal-use tool, your own paid account, your own data.** Automating a SaaS dashboard can be against its Terms of Service — use at your own discretion. Keep this repo **private**. Not affiliated with Sell The Trend.
+> ⚠️ **Personal-use tool, your own paid account, your own data.** Automating a SaaS dashboard can be against its Terms of Service — use responsibly and at your own risk. Not affiliated with, or endorsed by, Sell The Trend.
 
 ---
 
